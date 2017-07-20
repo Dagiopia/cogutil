@@ -13,4 +13,3 @@ SET(CMAKE_FIND_ROOT_PATH_MODE_PROGRAM NEVER)
 SET(CMAKE_FIND_ROOT_PATH_MODE_INCLUDE ONLY)
 SET(CMAKE_FIND_ROOT_PATH_MODE_LIBRARY ONLY)
 
-#include_directories(/home/icog2/rasp_root/usr/include/arm-linux-gnueabihf)
